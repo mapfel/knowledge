@@ -8,6 +8,15 @@
 
 ---
 
+## Hierarchy of Items
+
+- Tasks
+  - define tasks that take a day or less to complete; this helps mitigate the risks that come from poor estimates
+  - don't divide tasks into subtasks  
+    if you do divide a task into subtasks, specify Remaining Work only for the subtasks, as the system rolls up summary values to the parent task
+
+---
+
 ## Hierarchy of teams
 
 - provide each feature team with their distinct backlog to plan, prioritize, and track their work
@@ -77,7 +86,8 @@
 
 ## Resources
 
-- [MSDN: Use Azure Boards to manage your product and portfolio backlogs](https://docs.microsoft.com/en-us/azure/devops/boards/plans/portfolio-management?view=azure-devops)
-- [MSDN: Configure a hierarchy of teams](https://docs.microsoft.com/en-us/azure/devops/boards/plans/configure-hierarchical-teams?view=azure-devops)
-- [MSDN: Define iteration paths (sprints) and configure team iterations](https://docs.microsoft.com/en-us/azure/devops/organizations/settings/set-iteration-paths-sprints?view=azure-devops&tabs=browser)
+- [MSDN: Use Azure Boards to manage your product and portfolio backlogs](https://docs.microsoft.com/en-us/azure/devops/boards/plans/portfolio-management)
+- [MSDN: Review capacity charts](https://docs.microsoft.com/en-us/azure/devops/boards/sprints/set-capacity?view=azure-devops#review-capacity-charts)
+- [MSDN: Configure a hierarchy of teams](https://docs.microsoft.com/en-us/azure/devops/boards/plans/configure-hierarchical-teams)
+- [MSDN: Define iteration paths (sprints) and configure team iterations](https://docs.microsoft.com/en-us/azure/devops/organizations/settings/set-iteration-paths-sprints)
 - [MSDN: Team backlog iteration versus default iteration](https://docs.microsoft.com/en-us/azure/devops/organizations/settings/set-iteration-paths-sprints?view=azure-devops&tabs=browser#team-backlog-iteration-versus-default-iteration)
