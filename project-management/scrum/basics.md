@@ -108,3 +108,4 @@
 ### Links from the bookmarks
 
 - [10 tips for managers to adopt agile to save your project](https://zenexmachina.com/10-tips-for-adopting-scrum-to-save-your-project/)
+- [Pondering Agile Principles](https://benjiweber.co.uk/blog/2022/01/30/pondering-agile-principles/
